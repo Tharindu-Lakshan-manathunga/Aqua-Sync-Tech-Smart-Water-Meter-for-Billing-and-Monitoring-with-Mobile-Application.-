@@ -24,7 +24,7 @@
 #define DATABASE_URL "smart-water-meter-f9bb2-default-rtdb.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "tlakshan300@gmail.com"
+#define USER_EMAIL m"
 #define USER_PASSWORD "#"
 
 //Define Firebase Data object
